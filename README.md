@@ -1,2 +1,16 @@
-# Analyze-E-commerce-Sales-Dashboard-by-Using-Power-BI.
-E-commerce Sales Dashboard Project built with Power BI Featuring sales analysis, Profit tracking, KPIs, and interactive reports.
+# E-commerce Sales Dashboard
+
+## Tools Used
+- Power BI
+- Excel
+- DAX
+
+## KPIs
+- Total Sales
+- Profit
+- Orders
+- Customer Count
+
+## Insights
+- Top selling categories identified
+- Revenue trends analyzed
