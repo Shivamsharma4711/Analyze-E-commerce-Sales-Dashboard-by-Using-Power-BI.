@@ -1,4 +1,4 @@
-# E-commerce Sales Dashboard
+# E-commerce Sales Dashboard (Power BI)
 
 ## Tools Used
 - Power BI
@@ -7,10 +7,16 @@
 
 ## KPIs
 - Total Sales
-- Profit
-- Orders
-- Customer Count
+- Total Profit
+- Orders Count
+- Average Order Value
 
-## Insights
-- Top selling categories identified
-- Revenue trends analyzed
+## Files Included
+- Orders dataset
+- Details dataset
+- PBIX file
+- Dashboard screenshot
+- Schema image
+
+## Project Goal
+Analyze e-commerce sales data and build an interactive dashboard for business insights.
